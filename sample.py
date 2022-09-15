@@ -145,10 +145,10 @@
 # print(x % y)
 
 # 19)Write a program to get unique values from a list.
-#
-
-# 20)Write a program to update the value in a dictionary if the key exists.
- lst = [10,20,30,40,30,50,60,70]
+# lst = [10,20,30,40,30,50,60,70]
 # st = set(lst)
 # lst1 = list(st)
 # print(lst1)git
+
+
+# 20)Write a program to update the value in a dictionary if the key exists.
